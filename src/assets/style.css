@@ -1,0 +1,11 @@
+html, body, #root{
+  width: 100%;
+  height: 100%;
+}
+
+
+.register-cover-task{
+  background-image: url(banibani.jpg);
+  /* background-size: 700px; */
+}
+
